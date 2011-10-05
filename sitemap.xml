@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://ofbiz.github.com/blog/archives/</loc>
+        <lastmod>2011-10-05T22:27:42+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ofbiz.github.com/blog/</loc>
+        <lastmod>2011-10-05T22:28:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ofbiz.github.com/features/</loc>
+        <lastmod>2011-10-05T21:55:39+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ofbiz.github.com/</loc>
+        <lastmod>2011-10-05T22:27:00+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ofbiz.github.com/introduction/</loc>
+        <lastmod>2011-10-05T21:41:40+08:00</lastmod>
+    </url>
+</urlset>

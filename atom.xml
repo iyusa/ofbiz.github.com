@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[ofbiz.tw]]></title>
+  <link href="http://ofbiz.github.com/atom.xml" rel="self"/>
+  <link href="http://ofbiz.github.com/"/>
+  <updated>2011-10-06T00:26:58+08:00</updated>
+  <id>http://ofbiz.github.com/</id>
+  <author>
+    <name><![CDATA[T.C. Chou]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
