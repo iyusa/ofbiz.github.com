@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ofbiz.tw]]></title>
+  <title><![CDATA[OFBiz Taiwan]]></title>
   <link href="http://ofbiz.github.com/atom.xml" rel="self"/>
   <link href="http://ofbiz.github.com/"/>
-  <updated>2011-10-06T08:34:28+08:00</updated>
+  <updated>2011-10-06T23:32:25+08:00</updated>
   <id>http://ofbiz.github.com/</id>
   <author>
-    <name><![CDATA[OFBiz.tw]]></name>
+    <name><![CDATA[ofbiz.tw]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
