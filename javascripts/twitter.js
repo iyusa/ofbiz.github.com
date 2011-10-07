@@ -61,9 +61,9 @@ function showTwitterFeed(tweets, twitter_user) {
   var timeline = document.getElementById('tweets'),
       content = '';
 
-  for (var t in tweets) {
+  for (var t in tweets) { if (tweets[t].text) {
     content += '<li>'+'<p>'+'<a href="http://twitter.com/'+twitter_user+'/status/'+tweets[t].id_str+'">'+prettyDate(tweets[t].created_at)+'</a>'+linkifyTweet(tweets[t].text.replace(/\n/g, '<br>'), tweets[t].entities.urls)+'</p>'+'</li>';
-  }
+  } }
   timeline.innerHTML = content;
 }
 
