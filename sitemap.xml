@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://ofbiz.tw/blog/2011/10/06/1108-new-features/</loc>
+        <lastmod>2011-10-19T18:50:40+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ofbiz.tw/blog/2011/10/06/1109-new-features/</loc>
+        <lastmod>2011-10-19T18:51:18+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://ofbiz.tw/blog/archives/</loc>
-        <lastmod>2011-10-06T22:59:59+08:00</lastmod>
+        <lastmod>2011-10-19T18:51:18+08:00</lastmod>
     </url>
     <url>
         <loc>http://ofbiz.tw/blog/</loc>
-        <lastmod>2011-10-06T22:59:59+08:00</lastmod>
+        <lastmod>2011-10-19T18:51:18+08:00</lastmod>
     </url>
     <url>
         <loc>http://ofbiz.tw/features/</loc>
@@ -14,7 +22,7 @@
     </url>
     <url>
         <loc>http://ofbiz.tw/</loc>
-        <lastmod>2011-10-07T16:32:20+08:00</lastmod>
+        <lastmod>2011-10-19T18:51:18+08:00</lastmod>
     </url>
     <url>
         <loc>http://ofbiz.tw/introduction/</loc>
